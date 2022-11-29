@@ -5,9 +5,10 @@ Check
 Does pip installed and if installed check weather the pip in updated version
 and
 install below libraries and modules if not use this command in the terminal(pip install (respective package name)
-,django,
-,bs4
-,seleniu
-,wge
-,request
-,openpyx
+django <br />
+bs4 <br />
+selenium <br />
+wget <br />
+request <br />
+openpyx <br />
+
