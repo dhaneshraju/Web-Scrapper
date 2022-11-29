@@ -1,13 +1,13 @@
 # Web-Scrapper
-This project is under developement stage which used to scrape data by using your own id for some plateform "/n"
-If you need to run this project in your system,"/n"
-Check "/n"
-Does pip installed and if installed check weather the pip in udated version"/n"
-and "/n""/n"
-install below libraries and modules if not use this command in the terminal(pip install (respective package name))"/n"
-django"/n"
-bs4"/n"
-selenium"/n"
-wget"/n"
-requests"/n"
-openpyxl"/n"
+This project is under developement stage which used to scrape data by using your own id for some plateform
+If you need to run this project in your system
+Check
+Does pip installed and if installed check weather the pip in udated versio
+and
+install below libraries and modules if not use this command in the terminal(pip install (respective package name)
+,django,
+,bs4
+,seleniu
+,wge
+,request
+,openpyx
