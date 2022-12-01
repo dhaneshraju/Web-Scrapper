@@ -16,3 +16,7 @@ lamborghini67 contains data that pulls from the instagram <br />
 mcleran67 contains data that pulls from the instagram <br />
 Jobs67 <br />
 popularmovies67 <br />
+To run the project in the local your machine <br />
+type this command in the your terminal...<br />
+cd webgenics <br />
+python manage.py runserver<br />
